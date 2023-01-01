@@ -7,7 +7,7 @@ Hi, I'm **Mohammed**. My colleagues reach out to me for quick insights to suppor
 - 🌱 I’m currently learning Machine Learning (ML) practices within Data Analysis context.
 - 👯 I’m looking to collaborate on **data-related projects** to have FUN.
 - 🤔 I’m looking for help with **best practices** when it comes to building a machine learning model
-- 💬 Ask me about Python(**PySpark**), Optimizing SQL queries(**SQL Tuning**), Visualizations tricks (PowerBI, Tableau), and Automation.
+- 💬 Ask me about Python (**PySpark**), Optimizing SQL queries(**SQL Tuning**), Visualizations tricks (PowerBI, Tableau), and Automation.
 - 📫 Email me: **mohamed.mamdouh2@gmail.com**
 - ⚡ Fun fact: I para-motored (**flying** using parachute + motor) above the **Pyramids** despite having Acrophobia (Fear of Heights). 
 
