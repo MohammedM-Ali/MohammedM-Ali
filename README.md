@@ -13,7 +13,7 @@ Hi, I'm Mohammed. My colleagues reach out to me for insights to support Business
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyankajhatheanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedmamdouhali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed M. Ali" height="30" width="40" /></a>
 </p>
 
 ### Competences
