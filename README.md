@@ -7,10 +7,14 @@ Hi, I'm Mohammed. My colleagues reach out to me for insights to support Business
 - 🌱 I’m currently learning Machine Learning practices within Data Analysis context.
 - 👯 I’m looking to collaborate on data-related projects to have FUN.
 - 🤔 I’m looking for help with best practices when it comes to building a machine learning model
-- 💬 Ask me about Optimizing SQL queries, Visualizations tricks (PowerBI, Tableau), and Automation
-- 📫 How to reach me: mohamed.mamdouh2@gmail.com
-- ⚡ Fun fact: I para-motored (flying using parachute + motor) above the Pyramids despite having fear of heights. 
+- 💬 Ask me about Optimizing SQL queries(**SQL Tuning**), Visualizations tricks (PowerBI, Tableau), and Automation
+- 📫 Email me: **mohamed.mamdouh2@gmail.com**
+- ⚡ Fun fact: I para-motored (**flying** using parachute + motor) above the **Pyramids** despite having Acrophobia (Fear of Heights). 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/priyankajhatheanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+</p>
 
 ### Competences
 
@@ -37,10 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 -->
 
