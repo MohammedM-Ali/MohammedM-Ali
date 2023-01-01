@@ -12,6 +12,12 @@ Hi, I'm Mohammed. My colleagues reach out to me for insights to support Business
 - ⚡ Fun fact: I para-motored (flying using parachute + motor) above the Pyramids despite having fear of heights. 
 
 
+### Competences
+
+- Areas of Experience: Data Integrations/Extractions, Reporting/Visualization, Business Analysis, Automation, and Agile Practices 
+
+- Programming/Tools:
+
 | Rank | Tools/Languages    |
 |-----:|--------------------|
 |     1| SQL                |
